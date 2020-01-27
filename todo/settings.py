@@ -25,7 +25,7 @@ SECRET_KEY = '#_v%cf^@d&4_od3-))4ekt8crq_yu%i(gzjwlh-n#3e*_h#@(v'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['django-30-todo--neuronplanets.repl.co']
 
 
 # Application definition
